@@ -106,6 +106,6 @@ MIT License - Libre d'utilisation
 
 **Made with ❤️ by VeltrixJS**
 
-⭐ [Star ce projet](https://github.com/VeltrixJS/Ome.tv-IP-geolocation) si il vous aide !
+⭐ [Star ce projet](https://github.com/VeltrixJS/OmeTV-IP-Scanner) si il vous aide !
 
 </div>
