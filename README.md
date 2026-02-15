@@ -39,17 +39,8 @@ Script pour détecter et géolocaliser les IPs sur [Ome.tv](https://ome.tv/) en 
 
 ### Interface
 
-```
-╔═══════════════════════════════╗
-║  DETECTED IP      [📺] [X]   ║
-╠═══════════════════════════════╣
-║  IP: 162.19.18.158           ║
-║  ISP: OVH SAS                ║
-║  LOC: Paris, France (75)     ║
-║                               ║
-║  [Copy]  [Maps]              ║
-╚═══════════════════════════════╝
-```
+<img width="441" height="303" alt="Capture d&#39;écran 2026-02-15 130135" src="https://github.com/user-attachments/assets/cf6aaa72-d7d4-4974-8214-474cc2b2f0ce" />
+
 
 ### Contrôles
 
