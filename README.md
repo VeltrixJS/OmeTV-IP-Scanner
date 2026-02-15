@@ -2,7 +2,7 @@
 
 Script pour détecter et géolocaliser les IPs sur [Ome.tv](https://ome.tv/) en temps réel.
 
-> 🔗 **Repository:** https://github.com/VeltrixJS/Ome.tv-IP-geolocation
+> 🔗 **Repository:** [https://github.com/VeltrixJS/Ome.tv-IP-geolocation](https://github.com/VeltrixJS/OmeTV-IP-Scanner)
 
 ---
 
